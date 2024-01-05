@@ -1,2 +1,2 @@
-# CodeStudio_Dataanalytics-
+# CodeStudio_DataAnalytics
 Data analysis Internship Code Studio 
